@@ -1,0 +1,5 @@
+It is important to organize your thoughts because its better to understand
+the process and how the code actually works then to just copy and paste it 
+and not know what it does or how it works. Organizing your thoughts and 
+getting to know the program  helps make you a  better problem  solver, this class 
+is about more than  code its about becoming better problem solvers and being awesome.

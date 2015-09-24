@@ -1,0 +1,1 @@
+I have looked at parent portal and Yes i have recieved credit for all of my journals, It is important to use the naming convention because it helps determine a files name and purpose and why it will be used. If you dont have the right naming convention there could be alot of confusion. To copy in Linux Example: cd/home/steven/Desktop hen type: pseudo cp FILENAME /home/USERNAME

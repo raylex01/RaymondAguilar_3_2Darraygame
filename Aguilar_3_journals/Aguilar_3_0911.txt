@@ -1,0 +1,2 @@
+pseudocode is a simplified and less complicated version of a real programming language, used in program design. Pseudocode is good for teaching and helping to learn the basics of a real programming language and coding.
+We will use pseudocode to help us problem solve and learn problem solving skills that we can use while coding.

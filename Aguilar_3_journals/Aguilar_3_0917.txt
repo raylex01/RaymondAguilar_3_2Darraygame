@@ -1,0 +1,7 @@
+What are 5 different Java data types? What are they used for?
+
+1. int- Whole number (integer)
+2. float- A floating point decimall, 1.4635
+3. boolean- TRUE or FALSE
+4. String- A lot of characters, e.g., "134554rgf5"
+5. Char- Just one character e.g., "1" "h" "a"

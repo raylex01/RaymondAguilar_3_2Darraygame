@@ -1,0 +1,3 @@
+An IDE is a software application that provides comprehensive facilities to
+computer programmers for software development. It is designed to help programmers and developers build software
+some examples of an IDE are a source code editor, a compiler and/or an interpreter, build automation tools, a debugger.

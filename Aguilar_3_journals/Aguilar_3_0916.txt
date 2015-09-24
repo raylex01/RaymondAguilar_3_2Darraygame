@@ -1,0 +1,9 @@
+The three guiding rules/principles for Computer Science are to
+
+1. Tinker
+2. No cell phones
+3. Help others because by helping others you help yourself too
+
+In practice students should be quite with no cell phones or other devices in sight and put away
+students should be willing to try new things and not be afraid to fail and should help their fellow classmates if something is wrong or if they need assistance on something that you know how to do
+If a students code is not working he should first check to see if it is typed correctly, after that if the problem consists the student should check error messages to find out what the problem is.

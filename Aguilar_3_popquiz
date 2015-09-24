@@ -1,0 +1,8 @@
+What are the differences between MIT and GPL licenses? Which one will we use 
+in here?
+
+MIT licenses give you complete control and allows you to  see the source code and modify it or change it.
+GPL does not allow you to control everything but allows you to modify or redistribute without seeing the source code.
+We will use GPL because we arew students who can not be trusted with MIT and having that much control.
+
+

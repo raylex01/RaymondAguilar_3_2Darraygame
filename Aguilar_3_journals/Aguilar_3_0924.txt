@@ -1,0 +1,6 @@
+Why did Steve Ballmer call the GPL a virus?
+
+Steve Ballmer  declared that code released under GPL is useless to the
+commercial sector (since it can only be used if the resulting surrounding code
+becomes GPL), describing it thus as "a cancer that attaches itself in an 
+intellectual property sense to everything it touches"
