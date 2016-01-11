@@ -1,0 +1,14 @@
+digraph simple_map {
+
+A [label=""]           // node B
+B [label="First Chart"]     // node E
+C [label="eat food"]
+D [label="drink potion"]
+
+A->B [label="commands", fontcolor=darkgreen ]
+B -> C
+B -> D
+B -> E
+E -> F
+
+}

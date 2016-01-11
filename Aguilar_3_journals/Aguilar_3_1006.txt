@@ -1,0 +1,17 @@
+What is a method?
+
+A method is a subprogram that acts on data and often returns a value. Every
+method has its own name.
+
+
+What are classes?
+
+A class is a blueprint or template for creating different objects
+
+What is an instance?
+
+When you create a method you are creating an instance.
+
+What are class methods?
+
+

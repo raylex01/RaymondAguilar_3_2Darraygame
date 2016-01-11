@@ -1,0 +1,605 @@
+push graphic-context
+encoding "UTF-8"
+viewbox 0 0 3634 1428
+affine 1.2499 0 0 1.24996 0 0
+push graphic-context
+affine 1 0 0 1 4 1138.44
+push graphic-context
+fill 'white'
+stroke 'none'
+polygon -4,4 -4,-1138.44 2903.44,-1138.44 2903.44,4 -4,4
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+ellipse 607.725,-1116.44 52.7911,18 0,360
+pop graphic-context
+push graphic-context
+text-anchor 'middle'
+font-family 'Times,serif'
+font-size 14
+text 607.725,-1112.74 'The Calling'
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+ellipse 607.725,-1029.44 285.149,18 0,360
+pop graphic-context
+push graphic-context
+text-anchor 'middle'
+font-family 'Times,serif'
+font-size 14
+text 607.725,-1025.74 'One day you are walking in the wilderness and you stumble upon a dungeon.'
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+path 'M607.725,-1098.24C607.725,-1086.6 607.725,-1070.99 607.725,-1057.68'
+pop graphic-context
+push graphic-context
+fill 'black'
+stroke 'black'
+polygon 611.225,-1057.62 607.725,-1047.62 604.225,-1057.62 611.225,-1057.62
+pop graphic-context
+push graphic-context
+text-anchor 'middle'
+font-family 'Times,serif'
+font-size 14
+fill 'darkgreen'
+text 638.225,-1069.24 'commands'
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+ellipse 715.725,-956.441 79.0865,18 0,360
+pop graphic-context
+push graphic-context
+text-anchor 'middle'
+font-family 'Times,serif'
+font-size 14
+text 715.725,-952.741 'Enter the dungeon?'
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+path 'M633.594,-1011.43C648.337,-1001.74 666.961,-989.499 682.746,-979.122'
+pop graphic-context
+push graphic-context
+fill 'black'
+stroke 'black'
+polygon 684.747,-981.995 691.18,-973.577 680.901,-976.145 684.747,-981.995
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+ellipse 473.725,-902.441 177.369,18 0,360
+pop graphic-context
+push graphic-context
+text-anchor 'middle'
+font-family 'Times,serif'
+font-size 14
+text 473.725,-898.741 'Ignore the entrance and continue on your way?'
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+path 'M589.374,-1011.32C566.018,-989.535 525.552,-951.786 499.212,-927.216'
+pop graphic-context
+push graphic-context
+fill 'black'
+stroke 'black'
+polygon 501.554,-924.614 491.854,-920.353 496.779,-929.733 501.554,-924.614
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+ellipse 857.725,-839.571 547.101,26.7407 0,360
+pop graphic-context
+push graphic-context
+text-anchor 'middle'
+font-family 'Times,serif'
+font-size 14
+text 857.725,-843.371 'You enter the dungeon and you end up stumbling across two corridors,'
+pop graphic-context
+push graphic-context
+text-anchor 'middle'
+font-family 'Times,serif'
+font-size 14
+text 857.725,-828.371 'One on the left and you notice it has blood on the floor of the entrance, and one on the right that is full of spiderwebs but is lit by torches.'
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+path 'M736.07,-938.983C757.267,-921.835 791.033,-894.521 817.619,-873.014'
+pop graphic-context
+push graphic-context
+fill 'black'
+stroke 'black'
+polygon 820.045,-875.554 825.618,-866.543 815.642,-870.112 820.045,-875.554
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+ellipse 282.725,-776.701 282.95,18 0,360
+pop graphic-context
+push graphic-context
+text-anchor 'middle'
+font-family 'Times,serif'
+font-size 14
+text 282.725,-773.001 'You ignore the dungeon entrance and you dont have an adventure. Goodbye'
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+path 'M361.94,-888.369C335.087,-883.117 311.362,-875.981 301.725,-866.441 285.758,-850.636 281.684,-824.905 281.207,-805.21'
+pop graphic-context
+push graphic-context
+fill 'black'
+stroke 'black'
+polygon 284.708,-805.009 281.26,-794.991 277.708,-804.973 284.708,-805.009
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+ellipse 471.725,-18 51.1914,18 0,360
+pop graphic-context
+push graphic-context
+text-anchor 'middle'
+font-family 'Times,serif'
+font-size 14
+text 471.725,-14.3 'Try Again?'
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+path 'M282.725,-758.639C282.725,-740.723 282.725,-711.732 282.725,-686.701 282.725,-686.701 282.725,-686.701 282.725,-98.8701 282.725,-42.5315 354.861,-25.3202 410.003,-20.3938'
+pop graphic-context
+push graphic-context
+fill 'black'
+stroke 'black'
+polygon 410.381,-23.875 420.08,-19.6102 409.839,-16.8961 410.381,-23.875
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+ellipse 612.725,-722.701 91.784,18 0,360
+pop graphic-context
+push graphic-context
+text-anchor 'middle'
+font-family 'Times,serif'
+font-size 14
+text 612.725,-719.001 'Enter the left corridor?'
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+path 'M802.742,-812.792C758.241,-791.927 696.451,-762.956 655.565,-743.787'
+pop graphic-context
+push graphic-context
+fill 'black'
+stroke 'black'
+polygon 656.95,-740.57 646.41,-739.494 653.978,-746.908 656.95,-740.57
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+ellipse 918.725,-722.701 96.6831,18 0,360
+pop graphic-context
+push graphic-context
+text-anchor 'middle'
+font-family 'Times,serif'
+font-size 14
+text 918.725,-719.001 'Enter the right corridor?'
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+path 'M871.567,-812.505C881.55,-793.705 894.969,-768.436 904.939,-749.66'
+pop graphic-context
+push graphic-context
+fill 'black'
+stroke 'black'
+polygon 908.066,-751.236 909.665,-740.762 901.883,-747.953 908.066,-751.236
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+ellipse 525.725,-569.09 228.291,26.7407 0,360
+pop graphic-context
+push graphic-context
+text-anchor 'middle'
+font-family 'Times,serif'
+font-size 14
+text 525.725,-572.89 'You enter the dark and scary left corridor'
+pop graphic-context
+push graphic-context
+text-anchor 'middle'
+font-family 'Times,serif'
+font-size 14
+text 525.725,-557.89 'and you begin to hear sounds. You get mauled to death.'
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+path 'M583.84,-705.494C569.906,-696.206 554.196,-683.29 544.725,-667.701 533.555,-649.315 528.757,-625.703 526.775,-606.307'
+pop graphic-context
+push graphic-context
+fill 'black'
+stroke 'black'
+polygon 530.261,-605.994 525.959,-596.312 523.285,-606.564 530.261,-605.994
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+ellipse 955.725,-640.831 402.188,26.7407 0,360
+pop graphic-context
+push graphic-context
+text-anchor 'middle'
+font-family 'Times,serif'
+font-size 14
+text 955.725,-644.631 'You enter the right corridor, completely intact and alive.'
+pop graphic-context
+push graphic-context
+text-anchor 'middle'
+font-family 'Times,serif'
+font-size 14
+text 955.725,-629.631 'You begin to hear a woman screaming for help, she is being bombarded by bandits trying to rob her.'
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+path 'M926.753,-704.37C930.452,-696.387 934.982,-686.607 939.352,-677.173'
+pop graphic-context
+push graphic-context
+fill 'black'
+stroke 'black'
+polygon 942.604,-678.479 943.632,-667.935 936.253,-675.537 942.604,-678.479
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+path 'M497.292,-542.241C476.795,-520.675 452.725,-487.955 452.725,-453.22 452.725,-453.22 452.725,-453.22 452.725,-98.8701 452.725,-80.804 457.383,-61.0482 462.086,-45.7045'
+pop graphic-context
+push graphic-context
+fill 'black'
+stroke 'black'
+polygon 465.523,-46.4543 465.292,-35.8619 458.867,-44.2859 465.523,-46.4543
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+ellipse 1002.72,-506.22 206.063,18 0,360
+pop graphic-context
+push graphic-context
+text-anchor 'middle'
+font-family 'Times,serif'
+font-size 14
+text 1002.72,-502.52 'Do you kill the bandits and rescue the woman in need?'
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+path 'M964.899,-613.947C973.043,-590.967 984.901,-557.51 993.162,-534.203'
+pop graphic-context
+push graphic-context
+fill 'black'
+stroke 'black'
+polygon 996.527,-535.185 996.569,-524.59 989.929,-532.846 996.527,-535.185
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+ellipse 693.725,-452.22 223.66,18 0,360
+pop graphic-context
+push graphic-context
+text-anchor 'middle'
+font-family 'Times,serif'
+font-size 14
+text 693.725,-448.52 'Do you leave the dungeon in a panic, never to return again?'
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+path 'M917.022,-613.907C882.752,-590.784 831.517,-555.804 787.725,-524.22 766.004,-508.555 741.91,-490.339 723.554,-476.281'
+pop graphic-context
+push graphic-context
+fill 'black'
+stroke 'black'
+polygon 725.616,-473.452 715.552,-470.138 721.353,-479.004 725.616,-473.452
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+ellipse 1185.72,-398.22 459.518,18 0,360
+pop graphic-context
+push graphic-context
+text-anchor 'middle'
+font-family 'Times,serif'
+font-size 14
+text 1185.72,-394.52 'You come to the rescue like a hero, You slaughter all the bandits one by one until there is no one left but you and the woman.'
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+path 'M1032.13,-488.19C1063.48,-470.032 1113.24,-441.208 1147.58,-421.314'
+pop graphic-context
+push graphic-context
+fill 'black'
+stroke 'black'
+polygon 1149.5,-424.25 1156.4,-416.209 1145.99,-418.192 1149.5,-424.25
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+ellipse 667.725,-344.22 192.266,18 0,360
+pop graphic-context
+push graphic-context
+text-anchor 'middle'
+font-family 'Times,serif'
+font-size 14
+text 667.725,-340.52 'You panic and you leave the dungeon like a wimp.'
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+path 'M689.548,-434.19C685.459,-417.522 679.166,-391.867 674.387,-372.381'
+pop graphic-context
+push graphic-context
+fill 'black'
+stroke 'black'
+polygon 677.76,-371.439 671.978,-362.561 670.961,-373.107 677.76,-371.439
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+path 'M589.833,-327.734C542.346,-313.248 490.725,-286.09 490.725,-236.48 490.725,-236.48 490.725,-236.48 490.725,-98.8701 490.725,-80.804 486.067,-61.0482 481.364,-45.7045'
+pop graphic-context
+push graphic-context
+fill 'black'
+stroke 'black'
+polygon 484.583,-44.2859 478.157,-35.8619 477.927,-46.4543 484.583,-44.2859
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+ellipse 1221.72,-281.35 265.33,26.7407 0,360
+pop graphic-context
+push graphic-context
+text-anchor 'middle'
+font-family 'Times,serif'
+font-size 14
+text 1221.72,-285.15 'You realize that she is the princess of a nearby kingdom and'
+pop graphic-context
+push graphic-context
+text-anchor 'middle'
+font-family 'Times,serif'
+font-size 14
+text 1221.72,-270.15 'seems to be very rich and carrying a large sum of money on her.'
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+path 'M1191.19,-379.774C1196.3,-363.485 1204.07,-338.677 1210.5,-318.172'
+pop graphic-context
+push graphic-context
+fill 'black'
+stroke 'black'
+polygon 1213.88,-319.097 1213.53,-308.508 1207.2,-317.004 1213.88,-319.097
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+ellipse 1221.72,-190.61 454.119,18 0,360
+pop graphic-context
+push graphic-context
+text-anchor 'middle'
+font-family 'Times,serif'
+font-size 14
+text 1221.72,-186.91 'Do you kill the princess and steal all of her money? Only to live the rest of your life feeling guilty and like a terrible person?'
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+path 'M1221.72,-254.205C1221.72,-243.047 1221.72,-230.028 1221.72,-218.762'
+pop graphic-context
+push graphic-context
+fill 'black'
+stroke 'black'
+polygon 1225.23,-218.615 1221.72,-208.615 1218.23,-218.615 1225.23,-218.615
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+ellipse 2170.72,-190.61 227.877,26.7407 0,360
+pop graphic-context
+push graphic-context
+text-anchor 'middle'
+font-family 'Times,serif'
+font-size 14
+text 2170.72,-194.41 'Do you rescue the princess and take her back home like'
+pop graphic-context
+push graphic-context
+text-anchor 'middle'
+font-family 'Times,serif'
+font-size 14
+text 2170.72,-179.41 'a true hero?'
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+path 'M1411.77,-262.579C1578.82,-246.958 1820.43,-224.366 1985.9,-208.893'
+pop graphic-context
+push graphic-context
+fill 'black'
+stroke 'black'
+polygon 1986.56,-212.346 1996.19,-207.931 1985.91,-205.377 1986.56,-212.346
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+ellipse 1221.72,-99.8701 702.675,18 0,360
+pop graphic-context
+push graphic-context
+text-anchor 'middle'
+font-family 'Times,serif'
+font-size 14
+text 1221.72,-96.1701 'You kill the princess and steal all of her gold. You skip town and move far far away to start your new life, eventually the guilt gets to you and you just cant take it anymore. You commit suicide.'
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+path 'M1221.72,-172.5C1221.72,-159.978 1221.72,-142.727 1221.72,-128.292'
+pop graphic-context
+push graphic-context
+fill 'black'
+stroke 'black'
+polygon 1225.23,-127.927 1221.72,-117.928 1218.23,-127.928 1225.23,-127.927
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+ellipse 2420.72,-99.8701 478.923,26.7407 0,360
+pop graphic-context
+push graphic-context
+text-anchor 'middle'
+font-family 'Times,serif'
+font-size 14
+text 2420.72,-103.67 'You saved the princess and she is very grateful, you take her back home and she pays you all of the gold she had on her.'
+pop graphic-context
+push graphic-context
+text-anchor 'middle'
+font-family 'Times,serif'
+font-size 14
+text 2420.72,-88.6701 'You live the rest of your life a wealthy man and live in paradise.'
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+path 'M2240.03,-165.009C2270.68,-154.132 2306.93,-141.262 2338.9,-129.916'
+pop graphic-context
+push graphic-context
+fill 'black'
+stroke 'black'
+polygon 2340.41,-133.091 2348.67,-126.448 2338.07,-126.494 2340.41,-133.091
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+path 'M1065.87,-82.2724C899.601,-64.566 644.786,-37.4299 530.615,-25.2714'
+pop graphic-context
+push graphic-context
+fill 'black'
+stroke 'black'
+polygon 530.655,-21.756 520.341,-24.1772 529.914,-28.7166 530.655,-21.756
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+ellipse 2420.72,-18 108.581,18 0,360
+pop graphic-context
+push graphic-context
+text-anchor 'middle'
+font-family 'Times,serif'
+font-size 14
+text 2420.72,-14.3 'Congratulations! You Win!'
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+fill 'none'
+stroke 'black'
+path 'M2420.72,-72.7176C2420.72,-64.2726 2420.72,-54.8903 2420.72,-46.3604'
+pop graphic-context
+push graphic-context
+fill 'black'
+stroke 'black'
+polygon 2424.23,-46.1464 2420.72,-36.1464 2417.23,-46.1464 2424.23,-46.1464
+pop graphic-context
+pop graphic-context
+pop graphic-context
+pop graphic-context

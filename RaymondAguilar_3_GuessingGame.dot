@@ -1,0 +1,56 @@
+digraph simple_map {
+
+A [label="The Calling"]           // node B
+B [label="One day you are walking in the wilderness and you stumble upon a dungeon."]     // node E
+C [label="Enter the dungeon?"]
+D [label="Ignore the entrance and continue on your way?"]
+E [label="You ignore the dungeon entrance and you don't have an adventure. Goodbye"]
+F [label="Try Again?"]
+G [label="You enter the dungeon and you end up stumbling across two corridors,
+ One on the left and you notice it has blood on the floor of the entrance, and one on the right that is full of spiderwebs but is lit by torches."]
+H [label="Enter the left corridor?"]
+I [label="Enter the right corridor?"]
+J [label="You enter the dark and scary left corridor
+and you begin to hear sounds. You get mauled to death."]
+K [label="You enter the right corridor, completely intact and alive. 
+You begin to hear a woman screaming for help, she is being bombarded by bandits trying to rob her."]
+L [label="Do you kill the bandits and rescue the woman in need?"]
+M [label="Do you leave the dungeon in a panic, never to return again?"]
+N [label="You panic and you leave the dungeon like a wimp."]
+O [label="You come to the rescue like a hero, You slaughter all the bandits one by one until there is no one left but you and the woman."]
+P [label="You realize that she is the princess of a nearby kingdom and
+ seems to be very rich and carrying a large sum of money on her."]
+Q [label="Do you kill the princess and steal all of her money? Only to live the rest of your life feeling guilty and like a terrible person?"]
+R [label="Do you rescue the princess and take her back home like
+a true hero?"]
+S [label="You kill the princess and steal all of her gold. You skip town and move far far away to start your new life, eventually the guilt gets to you and you just cant take it anymore. You commit suicide."]
+T [label="You saved the princess and she is very grateful, you take her back home and she pays you all of the gold she had on her.
+You live the rest of your life a wealthy man and live in paradise."]
+U [label="Congratulations! You Win!"]
+
+
+A->B [label="commands", fontcolor=darkgreen ]
+B -> C
+B -> D
+D -> E
+E -> F
+C -> G
+G -> H
+G -> I
+H -> J
+J -> F
+I -> K
+K -> L
+K -> M
+M -> N
+N -> F
+L -> O
+O -> P
+P -> Q
+P -> R
+Q -> S
+S -> F
+R -> T
+T -> U
+
+}

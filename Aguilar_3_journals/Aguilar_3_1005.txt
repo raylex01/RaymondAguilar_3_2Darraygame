@@ -1,0 +1,8 @@
+What are code comments? What are they good for?
+
+Code comments are small comments from the creator that can be left on the
+project and in the code, When you write a code comment its basically like 
+getting a post it note and writing down a message or directions telling the
+user how the program works and what it does and then sticking it to your
+project. Its basically to help the reader or user know what is going on and
+why certain things are in certain places.

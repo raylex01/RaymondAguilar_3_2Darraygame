@@ -1,0 +1,6 @@
+To track what challenges the player has solved you can add a counter to the
+program, doing this will allow the game to keep track of all challeges the
+player has completed.
+
+To track HP and items you can put in a method that subtracts the number of
+damage points that were inflicted, from the current number of HP. 

@@ -1,0 +1,13 @@
+What is a Java class?
+A Java class is a domain its like a blueprint or template where your code 
+lives and where you work basically.
+
+What might be a Java class be for JavaFX?
+A Java class for JavaFX would be in Netbeans under Java Application which is
+formatted differently compared to other projects. These classes are
+specifically for JavaFX.
+
+What might be a method for class?
+A method for this class would be the visuals and the actual interface of 
+whatever we create, website, games, etc. It is the interface that is shown to
+the outside world.
