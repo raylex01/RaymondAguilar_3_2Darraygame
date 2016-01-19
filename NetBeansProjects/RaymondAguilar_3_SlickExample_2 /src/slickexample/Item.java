@@ -17,12 +17,12 @@ class item {
 	Image currentImage;
 	Shape hitbox;
 	Image healthpotion = new Image(
-			"res/d22_ninja.png");
+			"res/key.png");
 
 	item(int a, int b) throws SlickException {
 		this.x = a;
 		this.y = b;
-		this.hitbox = new Rectangle(a, b, 32, 32);// 64 is the width of the item
+		this.hitbox = new Rectangle(a, b, 10, 10);// 64 is the width of the item
 		this.currentImage = healthpotion;
 
 	}

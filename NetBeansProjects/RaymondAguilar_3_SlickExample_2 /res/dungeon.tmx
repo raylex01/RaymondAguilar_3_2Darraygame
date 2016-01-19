@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.0" orientation="orthogonal" renderorder="right-down" width="200" height="600" tilewidth="34" tileheight="34">
  <tileset firstgid="1" name="grass" tilewidth="34" tileheight="34">
-  <image source="../../tiled/grass.png" width="512" height="512"/>
+  <image source="grass.png" width="512" height="512"/>
  </tileset>
  <tileset firstgid="226" name="rocks" tilewidth="34" tileheight="34">
-  <image source="../../tiled/rocks.png" width="128" height="128"/>
+  <image source="rocks.png" width="128" height="128"/>
   <tile id="0">
    <properties>
     <property name="blocked" value="true"/>
@@ -52,13 +52,13 @@
   </tile>
  </tileset>
  <tileset firstgid="235" name="tile_1" tilewidth="34" tileheight="34">
-  <image source="../../tiled/tile_1.png" width="256" height="256"/>
+  <image source="tile_1.png" width="256" height="256"/>
  </tileset>
  <tileset firstgid="284" name="tile_2" tilewidth="34" tileheight="34">
   <properties>
    <property name="blocked" value=""/>
   </properties>
-  <image source="../../tiled/tile_2.png" width="256" height="256"/>
+  <image source="tile_2.png" width="256" height="256"/>
   <tile id="0">
    <properties>
     <property name="blocked" value="true"/>

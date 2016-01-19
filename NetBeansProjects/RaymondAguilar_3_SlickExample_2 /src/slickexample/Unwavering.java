@@ -66,7 +66,9 @@ public class Unwavering extends BasicGameState {
     public item1 speedpotion, speedpotion1;
     public itemwin antidote;
     public Ninja Morse, Giavanna, Weber;
-
+    public Enemy Aldo;
+    
+    public ArrayList<Enemy> enemiez = new ArrayList();
     public ArrayList<item> stuff = new ArrayList();
 
     public ArrayList<item1> stuff1 = new ArrayList();
@@ -116,7 +118,7 @@ public class Unwavering extends BasicGameState {
 		// *******************
 		// Scenerey Stuff
 		// ****************
-        grassMap = new TiledMap("res/d4.tmx");
+        grassMap = new TiledMap("res/Map.tmx");
 
 		// Ongoing checks are useful
         System.out.println("Tile map is this wide: " + grassMap.getWidth());
@@ -128,7 +130,7 @@ public class Unwavering extends BasicGameState {
         // and classes
 		// *********************************************************************************
         SpriteSheet runningSS = new SpriteSheet(
-                "res/ogrespritesheet.png", 64, 64, 0);
+                "res/download", 64, 64, 0);
 
 		// System.out.println("Horizontal count: "
         // +runningSS.getHorizontalCount());
